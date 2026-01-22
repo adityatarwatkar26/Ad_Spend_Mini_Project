@@ -63,12 +63,10 @@ The Tableau workbook includes multiple analytical views such as:
 
 ---
 
-# Dashboard
+# 📊 Digital Marketing Performance Overview
 <img width="1656" height="859" alt="Screenshot 2026-01-22 170709" src="https://github.com/user-attachments/assets/c298893c-5576-49c2-8294-90a68c88399a" />
 
-📊 Digital Marketing Performance Overview
 ## 🔍 Key Insights :-
-
 
 - YouTube Ads generate the highest revenue, leading all marketing channels.
 
