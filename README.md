@@ -65,7 +65,7 @@ The Tableau workbook includes multiple analytical views such as:
 
 ---
 
-# 📊 Digital Marketing Performance Overview
+# Dashboard
 <img width="1656" height="859" alt="Screenshot 2026-01-22 170709" src="https://github.com/user-attachments/assets/c298893c-5576-49c2-8294-90a68c88399a" />
 
 ## 🔍 Key Insights :-
