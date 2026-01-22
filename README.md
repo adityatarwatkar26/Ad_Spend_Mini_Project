@@ -63,6 +63,26 @@ The Tableau workbook includes multiple analytical views such as:
 
 ---
 
+# Dashboard
+<img width="1656" height="859" alt="Screenshot 2026-01-22 170709" src="https://github.com/user-attachments/assets/c298893c-5576-49c2-8294-90a68c88399a" />
+
+📊 Digital Marketing Performance Overview
+## 🔍 Key Insights :-
+
+
+- YouTube Ads generate the highest revenue, leading all marketing channels.
+
+- LinkedIn and Instagram Ads show strong revenue performance, indicating effective audience targeting.
+
+- Lead Generation and Retargeting consume the largest share of campaign spend, highlighting a focus on conversion-driven strategies.
+
+- Desktop devices deliver better cost efficiency across most industries compared to Mobile and Tablet.
+
+- Technology & Healthcare industries show relatively lower cost per click, making them more cost-effective segments.
+
+- Overall, the strategy balances brand visibility and sales performance, with spend aligned toward high-return channels.
+
+
 ## 📌 Important Notes
 - This is a **mini project** created for learning and portfolio purposes
 - Dataset may be simulated or anonymized
