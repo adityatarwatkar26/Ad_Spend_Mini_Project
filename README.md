@@ -1,5 +1,5 @@
 # Ad_Spend_Tableau_Mini_Project
-![Uploading pexels-canvastudio-3194518.jpg…]()
+![pexels-canvastudio-3194518](https://github.com/user-attachments/assets/b2daa174-7e56-4c66-8cf1-ae25d36a676f)
 
 # 📊 Ad Spend Optimization 
 
