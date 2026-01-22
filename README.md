@@ -1,4 +1,6 @@
 # Ad_Spend_Tableau_Mini_Project
+![Uploading pexels-canvastudio-3194518.jpg…]()
+
 # 📊 Ad Spend Optimization 
 
 ## 🔍 Project Overview
